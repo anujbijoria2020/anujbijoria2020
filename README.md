@@ -50,7 +50,6 @@ I enjoy building scalable web apps, exploring modern backend architectures, and 
 ##  Currently Learning
 
 - Advanced Backend Engineering  
-- System Design & APIs  
 - Database Optimization (PostgreSQL & MongoDB)  
 
 ---
